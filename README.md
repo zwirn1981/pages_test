@@ -1,4 +1,4 @@
-This is a test for [about html](https://github.com/zwirn1981/pages_test/edit/master/_site/about.md) bla bla bla
+This is a test for [about html](_site/about.md) bla bla bla
 
 ## Welcome to GitHub Pages
 
